@@ -1,0 +1,3 @@
+coms = ("A. Development", "Friends", "Always sunny")
+for show in coms:
+    Print(show)
